@@ -1,0 +1,30 @@
+---
+module:
+  name: "ui.bootstrap"
+uis:
+  - name: transition
+  - name: collapse
+  - name: accordion
+  - name: bindHtml
+  - name: buttons
+  - name: carousel
+  - name: dateparser
+  - name: position
+  - name: datepicker
+  - name: dropdown
+  - name: modal
+  - name: alert
+  - name: pagination
+  - name: tooltip
+  - name: popover
+  - name: progressbar
+  - name: rating
+  - name: tabs
+  - name: timepicker
+  - name: typeahead
+  - name: alert
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
